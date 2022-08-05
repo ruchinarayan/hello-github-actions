@@ -5,4 +5,3 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo workflow test working!!
-
