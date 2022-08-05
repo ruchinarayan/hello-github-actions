@@ -1,2 +1,6 @@
 name: A workflow for my Hello World file
 on: push
+jobs:
+  test_workflow:
+    runs-on: ubuntu-latest
+
